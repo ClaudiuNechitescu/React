@@ -1,0 +1,11 @@
+body{
+    background-color: lightgray;
+}
+header {
+    background-color: black;
+    width: 500px;
+    margin: auto auto;
+    text-align: center;
+    font-weight: bold;
+    color:white;
+}
